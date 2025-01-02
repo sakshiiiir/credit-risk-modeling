@@ -1,4 +1,4 @@
-#Credit Risk Modeling
+# Credit Risk Modeling
 
 Problem Description:
 - Credit risk refers to the likelihood that a borrower will fail to make payments on their debt obligations, leading to a potential financial loss for the lender. This risk includes delays or defaults on the interest or principal payments.
